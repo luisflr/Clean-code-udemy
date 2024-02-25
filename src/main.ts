@@ -1,5 +1,7 @@
 import './style.css'
 
+import './solid/03-liskov-a'
+
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
