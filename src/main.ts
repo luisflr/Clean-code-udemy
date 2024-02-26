@@ -1,6 +1,7 @@
 import './style.css'
 
-import './solid/dependency-inversion/05-dependency-a'
+// import './solid/dependency-inversion/05-dependency-a'
+import './solid/single-responsability/01-srp'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
